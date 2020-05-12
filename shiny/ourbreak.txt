@@ -1,0 +1,5 @@
+diseases,averagedeath,deaths,deathsrate,cases,countries
+COVID-19,1740,207094,1.4,3069757,186
+H1N1,743,362000,0.05,60800000,214
+SARS,3.2,774,9.6,8096,26
+Ebola,5.3,13023,50,28646,10
